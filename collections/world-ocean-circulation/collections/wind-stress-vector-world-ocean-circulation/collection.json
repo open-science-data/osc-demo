@@ -36,7 +36,7 @@
     },
     {
       "rel": "child",
-      "href": "./items/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc.json"
+      "href": "https://constantinius.github.io/osc-demo/collections/world-ocean-circulation/collections/wind-stress-vector-world-ocean-circulation/items/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc.json"
     }
   ],
   "stac_extensions": [

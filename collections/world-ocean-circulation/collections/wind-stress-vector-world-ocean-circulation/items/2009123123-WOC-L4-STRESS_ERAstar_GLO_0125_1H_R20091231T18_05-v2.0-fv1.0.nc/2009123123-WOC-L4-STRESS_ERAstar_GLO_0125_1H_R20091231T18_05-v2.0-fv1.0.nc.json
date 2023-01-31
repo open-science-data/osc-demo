@@ -44,22 +44,22 @@
     },
     {
       "rel": "root",
-      "href": "/home/fabian/dev/osc/cataloguer/out/woc-l4-se-erastar-h/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "/home/fabian/dev/osc/cataloguer/out/woc-l4-se-erastar-h/365/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collections/world-ocean-circulation/collections/wind-stress-vector-world-ocean-circulation/collection.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "/home/fabian/dev/osc/cataloguer/out/woc-l4-se-erastar-h/365/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collections/world-ocean-circulation/collections/wind-stress-vector-world-ocean-circulation/collection.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "/home/fabian/dev/osc/cataloguer/out/woc-l4-se-erastar-h/365/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc.json",
+      "href": "https://constantinius.github.io/osc-demo/collections/world-ocean-circulation/collections/wind-stress-vector-world-ocean-circulation/items/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc.json",
       "type": "application/json"
     }
   ],
