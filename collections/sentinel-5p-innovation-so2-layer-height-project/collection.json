@@ -1,0 +1,70 @@
+{
+  "type": "Collection",
+  "id": "sentinel-5p-innovation-so2-layer-height-project",
+  "stac_version": "1.0.0",
+  "description": "Generation of an SO2 layer height product for Sentinel-5p taking into account data production timeliness requirements.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://atmos.eoc.dlr.de/so2-lh/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/sentinel-5p-innovation-so2-layer-height-project/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-so2-layer-height-project/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "S5p Inno - SO2-LH",
+  "osc:name": "SENTINEL-5P+ INNOVATION - SO2 Layer Height Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Christian Retscher",
+    "e-mail": "christian.retscher@esa.int"
+  },
+  "osc:consortium": [
+    "DLR - GERMAN AEROSPACE CENTER (DE)",
+    "ARISTOTLE UNIV. OF THESSALONIKI (GR)",
+    "UNIVERSITY OF OXFORD (GB)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2019-07-03T00:00:00Z",
+  "end_datetime": "2021-12-30T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

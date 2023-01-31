@@ -1,0 +1,231 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc",
+  "properties": {
+    "created": "2022-12-20T09:17:25.626069Z",
+    "updated": "2022-12-20T09:17:25.626069Z",
+    "start_datetime": "2009-12-31T23:00:00Z",
+    "end_datetime": "2009-12-31T23:00:00Z",
+    "datetime": null
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -179.9375,
+          -89.9375
+        ],
+        [
+          179.9375,
+          -89.9375
+        ],
+        [
+          179.9375,
+          89.9375
+        ],
+        [
+          -179.9375,
+          89.9375
+        ],
+        [
+          -179.9375,
+          -89.9375
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "via",
+      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme1/ocean_winds/woc-l4-se-erastar-h/v2.0/2009/365/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc",
+      "type": "text/html"
+    },
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/cataloguer/out/woc-l4-se-erastar-h/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "/home/fabian/dev/osc/cataloguer/out/woc-l4-se-erastar-h/365/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "/home/fabian/dev/osc/cataloguer/out/woc-l4-se-erastar-h/365/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "/home/fabian/dev/osc/cataloguer/out/woc-l4-se-erastar-h/365/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "data": {
+      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme1/ocean_winds/woc-l4-se-erastar-h/v2.0/2009/365/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc",
+      "type": "application/x-netcdf",
+      "cube:dimensions": {
+        "lat": {
+          "axis": "y",
+          "type": "spatial",
+          "extent": [
+            -89.9375,
+            89.9375
+          ],
+          "step": 0.125,
+          "unit": "degrees_north"
+        },
+        "lon": {
+          "axis": "x",
+          "type": "spatial",
+          "extent": [
+            -179.9375,
+            179.9375
+          ],
+          "step": 0.125,
+          "unit": "degrees_east"
+        },
+        "time": {
+          "type": "temporal",
+          "extent": [
+            "2009-12-31T23:00:00",
+            "2009-12-31T23:00:00"
+          ],
+          "step": null,
+          "values": [
+            "2009-12-31T23:00:00"
+          ]
+        }
+      },
+      "cube:variables": {
+        "lat": {
+          "var_type": "data",
+          "unit": "degrees_north",
+          "dimensions": [
+            "lat"
+          ]
+        },
+        "lon": {
+          "var_type": "data",
+          "unit": "degrees_east",
+          "dimensions": [
+            "lon"
+          ]
+        },
+        "time": {
+          "var_type": "data",
+          "unit": "seconds since 1990-01-01 00:00:00",
+          "dimensions": [
+            "time"
+          ]
+        },
+        "es_u10s": {
+          "var_type": "data",
+          "unit": "m s-1",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "es_v10s": {
+          "var_type": "data",
+          "unit": "m s-1",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "es_tauu": {
+          "var_type": "data",
+          "unit": "Pa",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "es_tauv": {
+          "var_type": "data",
+          "unit": "Pa",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "e5_u10s": {
+          "var_type": "data",
+          "unit": "m s-1",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "e5_v10s": {
+          "var_type": "data",
+          "unit": "m s-1",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "e5_tauu": {
+          "var_type": "data",
+          "unit": "Pa",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "e5_tauv": {
+          "var_type": "data",
+          "unit": "Pa",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "count": {
+          "var_type": "data",
+          "unit": "1",
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        },
+        "quality_flag": {
+          "var_type": "data",
+          "unit": null,
+          "dimensions": [
+            "time",
+            "lat",
+            "lon"
+          ]
+        }
+      },
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    -179.9375,
+    -89.9375,
+    179.9375,
+    89.9375
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/datacube/v2.0.0/schema.json"
+  ],
+  "collection": "365"
+}

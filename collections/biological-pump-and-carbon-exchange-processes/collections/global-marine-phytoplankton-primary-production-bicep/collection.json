@@ -1,0 +1,83 @@
+{
+  "type": "Collection",
+  "id": "global-marine-phytoplankton-primary-production-bicep",
+  "stac_version": "1.0.0",
+  "description": "Primary production by marine phytoplankton was modelled using ocean-colour remote sensing products and a spectrally-resolved primary production model that incorporates the vertical structure of phytoplankton and simulates changes in photosynthesis as a function of irradiance using a two-parameter photosynthesis versus irradiance (P-I) function (see Kulk et al. 2020, Sathyendranath et al. 2020a, and references therein for details). Chlorophyll-a products were obtained from the European Space Agency (ESA) Ocean Colour Climate Change Initiative (OC-CCI v4.2 dataset). Photosynthetic Active Radiation (PAR) products were obtained from the National Aeronautics and Space Administration (NASA) and were corrected for inter-sensor bias in products. In situ datasets of chlorophyll-a profile parameters and P-I parameters were incorporated as described in Kulk et al. (2020). Data are provided as netCDF files containing global, monthly marine phytoplankton primary production products (in mg C m-2 d-1) for the period of 1998 to 2020 at 9 km spatial resolution.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://bicep-project.org/"
+    },
+    {
+      "rel": "via",
+      "href": "http://dx.doi.org/10.5285/69b2c9c6c4714517ba10dab3515e4ee6",
+      "title": "Access"
+    },
+    {
+      "rel": "via",
+      "href": "Citable as:\u00a0\u00a0Kulk, G.; Platt, T.; Dingle, J.; Jackson, T.; J\u00f6nsson, B.F.; Bouman, H.A.; Babin, M.; Brewin, R.J.W.; Doblin, M.; Estrada, M.; Figueiras, F.G.; Furuya, K.; Gonz\u00e1lez-Ben\u00edtez, N.; Gudfinnsson, H.G.; Gudmundsson, K.; Huang, B.; Isada, T.; Kova\u010d, \u017d.; Lutz, V.A.; Mara\u00f1\u00f3n, E.; Raman, M.; Richardson, K.; Rozema, P.D.; van de Poll, W.H.; Segura, V.; Tilstone, G.H.; Uitz, J.; van Dongen-Vogels, V.; Yoshikawa, T.; Sathyendranath, S. (2021): BICEP / NCEO: Monthly global Marine Phytoplankton Primary Production, between 1998-2020 at 9 km resolution (derived from the Ocean Colour Climate Change Initiative v4.2 dataset). NERC EDS Centre for Environmental Data Analysis,\u00a022 December 2021.",
+      "title": "Documentation"
+    },
+    {
+      "rel": "cite-as",
+      "href": "https://doi.org/10.5285/69b2c9c6c4714517ba10dab3515e4ee6"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/biological-pump-and-carbon-exchange-processes/collections/global-marine-phytoplankton-primary-production-bicep/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collections/biological-pump-and-carbon-exchange-processes/collection.json",
+      "type": "application/json",
+      "title": "BICEP"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+  ],
+  "title": "Monthly global Marine Phytoplankton Primary Production dataset",
+  "osc:missions": [
+    "Sentinel-3"
+  ],
+  "osc:project": "Biological Pump and Carbon Exchange Processes",
+  "osc:themes": [
+    "Oceans"
+  ],
+  "osc:variable": "Colour Dissolved Organic Matter (CDOM)",
+  "osc:status": "COMPLETED",
+  "osc:region": "Global",
+  "osc:type": "Product",
+  "created": "2021-10-01T00:00:00Z",
+  "start_datetime": "1998-01-01T00:00:00Z",
+  "end_datetime": "2020-12-31T23:59:59Z",
+  "sci:doi": "10.5285/69b2c9c6c4714517ba10dab3515e4ee6",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "1998-01-01T00:00:00Z",
+          "2020-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

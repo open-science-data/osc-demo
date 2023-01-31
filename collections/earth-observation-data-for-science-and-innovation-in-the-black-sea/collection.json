@@ -1,0 +1,159 @@
+{
+  "type": "Collection",
+  "id": "earth-observation-data-for-science-and-innovation-in-the-black-sea",
+  "stac_version": "1.0.0",
+  "description": "Novel EO-based products and enhanced data sets dedicated to the Black Sea as concerns: Ocean colour data, Coastal altimetry, High resolution salinity, River plume extent, Eddy tracking, Water mass classification, Stratification Index",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.eo4sibs.uliege.be/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/eo4sibs/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l3-chla-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Chl-a, 300m daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l3-spm-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l3-turbidity-daily-monthly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Turbidity, 300m, daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l4-chla-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l3-cryosat2-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l3-s3-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l4-dynamic-topography-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l4-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/eddy-census-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Eddy census"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l4-geostrophic-currents-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l2-smos-sss-daily-ascending-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Ascending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l2-smos-sss-daily-descending-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Descending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l3-sss-9day-average-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 SSS, 0.25\u00b0*0.25\u00b0, 9-day averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collections/l4-sss-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 product SSS, 0.05\u00b0*0.0505\u00b0"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "EO4SIBS",
+  "osc:name": "Earth Observation data For Science and Innovation in the Black Sea",
+  "osc:themes": [
+    "Oceans"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Marie-Helene Rio",
+    "e-mail": "marie-helene.rio@esa.int"
+  },
+  "osc:consortium": [
+    "UNIVERSITY OF LIEGE (BE)",
+    "AGENCIA ESTATAL CONSEJO SUPERIOR DE (ES)",
+    "CLS COLLECTE LOCALISATION SATELLITES (FR)",
+    "Jailoo srl (RO)",
+    "NATIONAL INSTITUTE FOR MARINE RES.R (RO)",
+    "Sorbonne Universit\u221a\u00a9",
+    "SU (FR)",
+    "TERRASIGNA SRL (RO)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2019-04-26T00:00:00Z",
+  "end_datetime": "2021-05-03T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

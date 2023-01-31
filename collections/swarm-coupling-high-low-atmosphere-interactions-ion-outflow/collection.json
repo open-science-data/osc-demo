@@ -1,0 +1,92 @@
+{
+  "type": "Collection",
+  "id": "swarm-coupling-high-low-atmosphere-interactions-ion-outflow",
+  "stac_version": "1.0.0",
+  "description": "The Swarm+ Coupling High-Low Atmosphere Interactions: Ion Outflow (\u201cSwarm+ Outflow\u201d) project, which began in May 2019, centers on using Swarm spacecraft to tackle unanswered questions around non-thermal processes that lead to ion outflow.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://swarmoutflow.w.uib.no/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/collections/solar-activity-polar-cap-plasma-density-ion-outflow/collection.json",
+      "type": "application/json",
+      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/collections/swarm-eiscat-conjunction-list-ion-outflow/collection.json",
+      "type": "application/json",
+      "title": "Swarm-EISCAT conjunction list (2013-2019)"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/collections/cluster-swarm-ac-conjunctions-ion-outflow/collection.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm A and C conjunctions"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/collections/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/collections/cluster-swarm-b-conjunctions-ion-outflow/collection.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm B conjunctions"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Swarm+ Outflow",
+  "osc:name": "Swarm+ Coupling High-Low Atmosphere Interactions: Ion Outflow",
+  "osc:themes": [
+    "Magnetosphere_Ionosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Roger Haagmans",
+    "e-mail": "roger.haagmans@esa.int"
+  },
+  "osc:consortium": [
+    "UNIVERSITY OF BERGEN (NO)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2019-02-22T00:00:00Z",
+  "end_datetime": "2020-09-30T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

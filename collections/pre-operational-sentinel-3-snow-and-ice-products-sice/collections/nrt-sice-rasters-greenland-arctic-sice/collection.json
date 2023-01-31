@@ -1,0 +1,78 @@
+{
+  "type": "Collection",
+  "id": "nrt-sice-rasters-greenland-arctic-sice",
+  "stac_version": "1.0.0",
+  "description": "1 km Greenland, daily, with cloud mask, geotiff at https://github.com/AdrienWehrle/SICE/tree/master/masks",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://snow.geus.dk/"
+    },
+    {
+      "rel": "via",
+      "href": "https://dataverse01.geus.dk/dataset.xhtml?persistentId=doi:10.22008/FK2/SD56CB",
+      "title": "Access"
+    },
+    {
+      "rel": "cite-as",
+      "href": "https://doi.org/10.22008/FK2/SD56CB"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/pre-operational-sentinel-3-snow-and-ice-products-sice/collections/nrt-sice-rasters-greenland-arctic-sice/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collections/pre-operational-sentinel-3-snow-and-ice-products-sice/collection.json",
+      "type": "application/json",
+      "title": "S3 snow and ice products"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+  ],
+  "title": "NRT SICE rasters for Greenland_Arctic_S3",
+  "osc:missions": [
+    "Sentinel-3"
+  ],
+  "osc:project": "Pre-Operational Sentinel-3 snow and ice products (SICE)",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:variable": "Snow cover",
+  "osc:status": "ONGOING",
+  "osc:region": "Arctic",
+  "osc:type": "Product",
+  "created": "2021-01-01T00:00:00Z",
+  "start_datetime": "2020-01-01T00:00:00Z",
+  "end_datetime": "2021-12-31T23:59:59Z",
+  "sci:doi": "10.22008/FK2/SD56CB",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -178.4105321808,
+          60.6134006095,
+          178.3660428163,
+          84.2454100786
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-01-01T00:00:00Z",
+          "2021-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

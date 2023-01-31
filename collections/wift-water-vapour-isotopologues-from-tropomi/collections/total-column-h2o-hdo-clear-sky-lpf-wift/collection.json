@@ -1,0 +1,72 @@
+{
+  "type": "Collection",
+  "id": "total-column-h2o-hdo-clear-sky-lpf-wift",
+  "stac_version": "1.0.0",
+  "description": "total columns of H2O and HDO for clear-sky scenes",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/wift-water-vapour-isotopologues-from-tropomi/"
+    },
+    {
+      "rel": "via",
+      "href": "ftp://ftp.sron.nl/open-access-data-2/TROPOMI/tropomi/hdo/9_1/",
+      "title": "Access"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/wift-water-vapour-isotopologues-from-tropomi/collections/total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collections/wift-water-vapour-isotopologues-from-tropomi/collection.json",
+      "type": "application/json",
+      "title": "(LPF) WIFT"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "HDO/H2O non-scattering product_S5p-TROPOMI",
+  "osc:missions": [
+    "Sentinel-5p"
+  ],
+  "osc:project": "WIFT: Water vapour Isotopologues From TROPOMI",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:variable": "HDO",
+  "osc:status": "ONGOING",
+  "osc:region": "Global",
+  "osc:type": "Product",
+  "created": "2019-06-11T00:00:00Z",
+  "start_datetime": "2017-01-01T00:00:00Z",
+  "end_datetime": "2020-12-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2017-01-01T00:00:00Z",
+          "2020-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

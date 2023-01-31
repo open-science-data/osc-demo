@@ -1,0 +1,69 @@
+{
+  "type": "Collection",
+  "id": "citysatair",
+  "stac_version": "1.0.0",
+  "description": "Develop and demonstrate a methodology that is capable of exploiting the various available data sources of urban air quality, to combine them in a mathematically objective and scientifically meaningful manner, and to provide value-added maps of urban air quality at high spatial resolution.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://citysatair.nilu.no/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/citysatair/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/citysatair/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "CITYSATAIR",
+  "osc:name": "CITYSATAIR",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Christian Retscher",
+    "e-mail": "christian.retscher@esa.int"
+  },
+  "osc:consortium": [
+    "KNMI (NL)",
+    "NILU - NORWEGIAN INSTITUTE FOR AIR RESEARCH (NO)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2020-07-01T00:00:00Z",
+  "end_datetime": "2021-07-15T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

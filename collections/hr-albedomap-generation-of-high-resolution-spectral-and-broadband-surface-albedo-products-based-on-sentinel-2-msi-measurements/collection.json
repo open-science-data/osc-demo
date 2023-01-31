@@ -1,0 +1,68 @@
+{
+  "type": "Collection",
+  "id": "hr-albedomap-generation-of-high-resolution-spectral-and-broadband-surface-albedo-products-based-on-sentinel-2-msi-measurements",
+  "stac_version": "1.0.0",
+  "description": "Improving a current surface albedo generation system by adapting and integrating a deep learning system for cloud detection, an advanced atmospheric correction model which considers the surface BRDF effects, and a new technology allowing to retrieve high-resolution albedo from high-resolution reflectance by combining with downscaled MODIS BRDF climatology",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/hr-albedomap/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/hr-albedomap/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/hr-albedomap-generation-of-high-resolution-spectral-and-broadband-surface-albedo-products-based-on-sentinel-2-msi-measurements/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "HR-AlbedoMap",
+  "osc:name": "HR-AlbedoMap: Generation of high-resolution spectral and broadband surface albedo products based on Sentinel-2 MSI measurements",
+  "osc:themes": [
+    "Land"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Espen Volden",
+    "e-mail": "espen.volden@esa.int"
+  },
+  "osc:consortium": [
+    "UCL CONSULTANTS LTD (GB)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2020-03-25T00:00:00Z",
+  "end_datetime": "2021-07-10T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

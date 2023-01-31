@@ -1,0 +1,76 @@
+{
+  "type": "Collection",
+  "id": "l2b-sif-surface-reflectance-tropomi-troposif",
+  "stac_version": "1.0.0",
+  "description": "This dataset provides daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI observations covering the period May 2018-March 2021. SIF data are estimated from two fitting windows: from the 743-758 nm window (baseline product) and from the extended 735-758 nm window (secondary product). The L2B TROPOSIF products are provided in netCDF-4 files.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://s5p-troposif.noveltis.fr/"
+    },
+    {
+      "rel": "via",
+      "href": "http://ftp.sron.nl/open-access-data-2/TROPOMI/tropomi/sif/v2.1/l2b/",
+      "title": "Access"
+    },
+    {
+      "rel": "via",
+      "href": "https://s5p-troposif.noveltis.fr/wp-content/uploads/2021/05/NOV-FE-0956-MU-019_v2.0.pdf",
+      "title": "Documentation"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/collections/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/collection.json",
+      "type": "application/json",
+      "title": "S5p Inno - SIF"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI",
+  "osc:missions": [
+    "Sentinel-5p"
+  ],
+  "osc:project": "SENTINEL-5P+ INNOVATION SOLAR INDUCED CHLOROPHYLL FLUORESCENCE (SIF)",
+  "osc:themes": [
+    "Land"
+  ],
+  "osc:variable": "Solar-induced chlorophyll fluorescence (SIF)",
+  "osc:status": "COMPLETED",
+  "osc:region": "Global",
+  "osc:type": "Product",
+  "start_datetime": "2018-01-01T00:00:00Z",
+  "end_datetime": "2021-12-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2018-01-01T00:00:00Z",
+          "2021-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}
