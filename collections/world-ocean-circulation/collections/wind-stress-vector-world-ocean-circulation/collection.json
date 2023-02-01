@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/fabian/dev/osc/builder/out/collection.json",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
       "type": "application/json"
     },
     {
