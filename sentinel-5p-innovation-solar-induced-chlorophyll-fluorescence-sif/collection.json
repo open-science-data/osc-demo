@@ -1,0 +1,70 @@
+{
+  "type": "Collection",
+  "id": "sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif",
+  "stac_version": "1.0.0",
+  "description": "Development of satellite Solar induced chlorophyll fluorescence (SIF) products",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://s5p-troposif.noveltis.fr/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "./l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
+      "type": "application/json",
+      "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "S5p Inno - SIF",
+  "osc:name": "SENTINEL-5P+ INNOVATION SOLAR INDUCED CHLOROPHYLL FLUORESCENCE (SIF)",
+  "osc:themes": [
+    "Atmosphere",
+    "Land"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Christian Retscher",
+    "e-mail": "christian.retscher@esa.int"
+  },
+  "osc:consortium": [
+    "NOVELTIS SAS (FR)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2019-07-03T00:00:00Z",
+  "end_datetime": "2021-11-09T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2019-07-03T00:00:00Z",
+          "2021-11-09T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

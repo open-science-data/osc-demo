@@ -1,0 +1,65 @@
+{
+  "type": "Collection",
+  "id": "sentinel-5p-innovation-water-vapour-isotopologues-h2o-iso",
+  "stac_version": "1.0.0",
+  "description": "Demonstrate the feasibility of measuring stable water isotopologues for S5P, specifically ratios of HDO/H2O",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/sentinel-5p-innovation-water-vapour-isotopologues-project-h2o-iso/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/sentinel-5p-innovation-water-vapour-isotopologues-project-h2o-iso/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "S5p Inno - H2O-ISO",
+  "osc:name": "SENTINEL-5P+ INNOVATION \u201a WATER VAPOUR ISOTOPOLOGUES (H2O-ISO)",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Christian Retscher",
+    "e-mail": "christian.retscher@esa.int"
+  },
+  "osc:consortium": [
+    "UNIVERSITY OF LEICESTER (GB)",
+    "KARLSRUHE INSTITUTE OF TECHNOLOGY (DE)",
+    "UNIVERSITY OF BERGEN (NO)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2019-07-02T00:00:00Z",
+  "end_datetime": "2021-12-30T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2019-07-02T00:00:00Z",
+          "2021-12-30T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

@@ -1,0 +1,153 @@
+{
+  "type": "Collection",
+  "id": "4dantarctica",
+  "stac_version": "1.0.0",
+  "description": "Advancing the understanding of the Antarctic Ice Sheet\u201a supra and sub-glacial hydrology, its evolution, and its role within the broader ice sheet and ocean systems.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.4d-antarctica.org/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/4dantarctica/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-lake-drainage-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./supraglacial-lakes-west-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "SupraglacialLake_WestAntarcticIceSheet2017_S2L8_V1.1"
+    },
+    {
+      "rel": "child",
+      "href": "./gravity-anomalies-goce-airborne-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Gravity anomalies from GOCE and airborne data"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-melt-ascat-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctica_ASCAT_v1"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-melt-s1-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctic-Peninsula_Sentinel-1_v1"
+    },
+    {
+      "rel": "child",
+      "href": "./radar-brightness-s1-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Radar Brightness_Antarctica_Sentinel-1_v1"
+    },
+    {
+      "rel": "child",
+      "href": "./ice-temperature-smos-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "IceTemperature_Antarctica_SMOS"
+    },
+    {
+      "rel": "child",
+      "href": "./melt-indicator-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022"
+    },
+    {
+      "rel": "child",
+      "href": "./gridded-subglacial-discharge-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Modelled subglacial discharge and drainage pathways"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-lakes-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Modelled subglacial lake locations"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-catchements-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Modelled subglacial catchement boundaries"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-melt-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Melt"
+    },
+    {
+      "rel": "child",
+      "href": "./geothermal-heat-flux-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Geothermal Heat flux estimate from aeromagnetic data"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "4D-ANTARCTICA",
+  "osc:name": "4DANTARCTICA",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:status": "ONGOING",
+  "osc:technical_officer": {
+    "name": "Diego Fernandez",
+    "e-mail": "diego.fernandez@esa.int"
+  },
+  "osc:consortium": [
+    "UNIVERSITY OF EDINBURGH (GB)",
+    "CNR-RESEARCH INSTITUTE FOR GEO-HYDROLOGICAL PROTECTION \u2013 IRPI (IT)",
+    "DLR \u2013 GERMAN AEROSPACE CENTER (DE)",
+    "EARTHWAVE Ltd (GB)",
+    "EIDGEN\u00d6SSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
+    "ENVEO \u2013 ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
+    "SHEPHERD SPACE LTD. (GB)",
+    "Technical University of Denmark (DK)",
+    "UKRI Rutherford Appleton Laboratory (GB)",
+    "UNIVERSITY OF LANCASTER ENVIROMENT CENTRE (GB)",
+    "UNIVERSITY OF LEEDS",
+    "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
+    "UNIVERSIT\u00c9 GRENOBLE ALPES (FR)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2019-09-24T00:00:00Z",
+  "end_datetime": "2022-10-15T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2019-09-24T00:00:00Z",
+          "2022-10-15T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

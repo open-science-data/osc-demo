@@ -1,0 +1,60 @@
+{
+  "type": "Collection",
+  "id": "glacier-elevation-cryosat-mountain-glaciers",
+  "stac_version": "1.0.0",
+  "description": "Available by request to: noel.gourmelen@ed.ac.uk",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.cryosat-mtg.org/",
+      "title": "Website"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "CryoSat+ Mountain Glaciers"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2",
+  "osc:missions": [
+    "CryoSat-2"
+  ],
+  "osc:project": "CryoSat+ Mountain Glaciers",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:variable": "Glacier topography",
+  "osc:status": "COMPLETED",
+  "osc:region": "Global",
+  "osc:type": "Product",
+  "start_datetime": "2010-01-01T00:00:00Z",
+  "end_datetime": "2015-12-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2010-01-01T00:00:00Z",
+          "2015-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

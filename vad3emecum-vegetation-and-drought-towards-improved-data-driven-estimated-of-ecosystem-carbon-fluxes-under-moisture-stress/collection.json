@@ -1,0 +1,69 @@
+{
+  "type": "Collection",
+  "id": "vad3emecum-vegetation-and-drought-towards-improved-data-driven-estimated-of-ecosystem-carbon-fluxes-under-moisture-stress",
+  "stac_version": "1.0.0",
+  "description": "Integration of data streams of the sun-induced chlorophyll fluorescence, land surface temperature and vegetation optical depth into data-driven flux models for a better diagnosis of vegetative stress reactions as well as completementary information on soil moisture.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/vad3mecum-vegetation-and-drought-towards-improved-data-driven-estimated-of-ecosystem-carbon-fluxes-under-moisture-stress/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/vad3mecum-vegetation-and-drought-towards-improved-data-driven-estimated-of-ecosystem-carbon-fluxes-under-moisture-stress/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "./gross-net-carbon-flux-lpf-vad3emecum/collection.json",
+      "type": "application/json",
+      "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "(LPF) VAD3EMECUM",
+  "osc:name": "VAD3EMECUM. Vegetation and drought: towards improved data-driven estimated of ecosystem carbon fluxes under moisture stress",
+  "osc:themes": [
+    "Land"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Stephen Plummer",
+    "e-mail": "stephen.plummer@esa.int"
+  },
+  "osc:consortium": [
+    "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2020-04-29T00:00:00Z",
+  "end_datetime": "2022-06-01T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-29T00:00:00Z",
+          "2022-06-01T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

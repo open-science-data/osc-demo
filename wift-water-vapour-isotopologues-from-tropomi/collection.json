@@ -1,0 +1,87 @@
+{
+  "type": "Collection",
+  "id": "wift-water-vapour-isotopologues-from-tropomi",
+  "stac_version": "1.0.0",
+  "description": "The subject of this project is to exploit these measurements to retrieve the water vapour isotopologues H216O, HDO and, if possible, H218O.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/wift-water-vapour-isotopologues-from-tropomi/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/wift-water-vapour-isotopologues-from-tropomi/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "./total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
+      "type": "application/json",
+      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "./total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
+      "type": "application/json",
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "./hdo-total-column-tropomi-extended-wift/collection.json",
+      "type": "application/json",
+      "title": "Extended scientific HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "./hdo-total-column-tropomi-clear-sky-wift/collection.json",
+      "type": "application/json",
+      "title": "Clear-sky HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "(LPF) WIFT",
+  "osc:name": "WIFT: Water vapour Isotopologues From TROPOMI",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Stephen Plummer",
+    "e-mail": "stephen.plummer@esa.int"
+  },
+  "osc:consortium": [
+    "Netherlands Institute for Space Research (NWO-I) (NL)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2018-10-17T00:00:00Z",
+  "end_datetime": "2020-10-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2018-10-17T00:00:00Z",
+          "2020-10-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

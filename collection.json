@@ -6,780 +6,755 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "href": "./collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/arcticsummit-arctic-summer-ice-thickness/collection.json",
+      "href": "./arcticsummit-arctic-summer-ice-thickness/collection.json",
       "type": "application/json",
       "title": "(LPF) ArcticSummIT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/cassis-climate-altimetric-studies-with-sea-ice-and-snow/collection.json",
+      "href": "./cassis-climate-altimetric-studies-with-sea-ice-and-snow/collection.json",
       "type": "application/json",
       "title": "(LPF) CASSIS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/eocytes-evaluation-of-the-effect-of-ozone-on-crop-yields-and-the-terrestrial-carbon-pool-using-satellite-data/collection.json",
+      "href": "./eocytes-evaluation-of-the-effect-of-ozone-on-crop-yields-and-the-terrestrial-carbon-pool-using-satellite-data/collection.json",
       "type": "application/json",
       "title": "(LPF) EOCYTES"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/iceflow-short-term-movements-in-the-cryosphere/collection.json",
+      "href": "./iceflow-short-term-movements-in-the-cryosphere/collection.json",
       "type": "application/json",
       "title": "(LPF) ICEFLOW"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/l2a-rut/collection.json",
+      "href": "./l2a-rut/collection.json",
       "type": "application/json",
       "title": "(LPF) L2A-RUT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/mass-balance-and-ice-dynamics-of-antarctic-peninsula-glaciers-mit-ap/collection.json",
+      "href": "./mass-balance-and-ice-dynamics-of-antarctic-peninsula-glaciers-mit-ap/collection.json",
       "type": "application/json",
       "title": "(LPF) MIT-AP"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/multi-flex-towards-a-strategy-for-fluorescence-monitoring-at-multiple-scales-within-the-context-of-the-flex-s-3-tandem-mission/collection.json",
+      "href": "./multi-flex-towards-a-strategy-for-fluorescence-monitoring-at-multiple-scales-within-the-context-of-the-flex-s-3-tandem-mission/collection.json",
       "type": "application/json",
       "title": "(LPF) MULTI-FLEX"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/ovalie-oceanic-intrinsic-variability-versus-atmospheric-forced-variability-of-sea-level-change/collection.json",
+      "href": "./ovalie-oceanic-intrinsic-variability-versus-atmospheric-forced-variability-of-sea-level-change/collection.json",
       "type": "application/json",
       "title": "(LPF) OVALIE"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/physioglob-assessing-the-inter-annual-physiological-response-of-phytoplankton-to-global-warming-using-long-term-satellite-observations/collection.json",
+      "href": "./physioglob-assessing-the-inter-annual-physiological-response-of-phytoplankton-to-global-warming-using-long-term-satellite-observations/collection.json",
       "type": "application/json",
       "title": "(LPF) PHYSIOGLOB"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/shred-sentinel-1-for-high-resolution-monitoring-of-vegetation-dynamics/collection.json",
+      "href": "./shred-sentinel-1-for-high-resolution-monitoring-of-vegetation-dynamics/collection.json",
       "type": "application/json",
       "title": "(LPF) SHRED"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/smows-satellite-mode-waters-salinity-in-synergy-with-temperature-and-sea-level/collection.json",
+      "href": "./smows-satellite-mode-waters-salinity-in-synergy-with-temperature-and-sea-level/collection.json",
       "type": "application/json",
       "title": "(LPF) SMOWS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/stratospheric-ozone-from-limb-observations-validation-of-the-profiles-evaluation-of-trends-and-their-dynamical-and-chemical-drivers-solve/collection.json",
+      "href": "./stratospheric-ozone-from-limb-observations-validation-of-the-profiles-evaluation-of-trends-and-their-dynamical-and-chemical-drivers-solve/collection.json",
       "type": "application/json",
       "title": "(LPF) SOLVE"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/vad3emecum-vegetation-and-drought-towards-improved-data-driven-estimated-of-ecosystem-carbon-fluxes-under-moisture-stress/collection.json",
+      "href": "./vad3emecum-vegetation-and-drought-towards-improved-data-driven-estimated-of-ecosystem-carbon-fluxes-under-moisture-stress/collection.json",
       "type": "application/json",
       "title": "(LPF) VAD3EMECUM"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/volcano-monitoring-using-deep-learning/collection.json",
+      "href": "./volcano-monitoring-using-deep-learning/collection.json",
       "type": "application/json",
       "title": "(LPF) VMDL"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/water-cycle-changes-characterised-from-atmospheric-moisture-recycling-weather/collection.json",
+      "href": "./water-cycle-changes-characterised-from-atmospheric-moisture-recycling-weather/collection.json",
       "type": "application/json",
       "title": "(LPF) WEATHER"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/wift-water-vapour-isotopologues-from-tropomi/collection.json",
+      "href": "./wift-water-vapour-isotopologues-from-tropomi/collection.json",
       "type": "application/json",
       "title": "(LPF) WIFT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/3d-earth/collection.json",
+      "href": "./3d-earth/collection.json",
       "type": "application/json",
       "title": "3D-EARTH"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/4dantarctica/collection.json",
+      "href": "./4dantarctica/collection.json",
       "type": "application/json",
       "title": "4D-ANTARCTICA"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/the-4d-earth-swarm-project/collection.json",
+      "href": "./the-4d-earth-swarm-project/collection.json",
       "type": "application/json",
       "title": "4D-Earth SWARM"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/4dgreenland/collection.json",
+      "href": "./4dgreenland/collection.json",
       "type": "application/json",
       "title": "4D-Greenland"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/aeolus-innovation-expro-ocean-sub-surface-products-and-applications/collection.json",
+      "href": "./aeolus-innovation-expro-ocean-sub-surface-products-and-applications/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - AOC"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/collection.json",
+      "href": "./aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - COLOR"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/aeolus-innovation-expro-lidar-measurements-to-identify-streamers-and-analyze-atmospheric-waves-lisa/collection.json",
+      "href": "./aeolus-innovation-expro-lidar-measurements-to-identify-streamers-and-analyze-atmospheric-waves-lisa/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - LISA"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/aeolus-innovation-expro-improving-dust-monitoring-and-forecasting-through-aeolus-wind-data-assimilation-newton/collection.json",
+      "href": "./aeolus-innovation-expro-improving-dust-monitoring-and-forecasting-through-aeolus-wind-data-assimilation-newton/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - NEWTON"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/aeolus-innovation-expro-ocean-surface-wind-from-aeolus-sea-surface-returns-sea-flect/collection.json",
+      "href": "./aeolus-innovation-expro-ocean-surface-wind-from-aeolus-sea-surface-returns-sea-flect/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - SEA-FLECT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/aeolus-innovation-studies-on-wind-and-aerosol-information-from-lidar-surface-returns-swails/collection.json",
+      "href": "./aeolus-innovation-studies-on-wind-and-aerosol-information-from-lidar-surface-returns-swails/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - SWAILS+"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/akross-altimetric-ku-band-radar-observations-simulated-with-smrt/collection.json",
+      "href": "./akross-altimetric-ku-band-radar-observations-simulated-with-smrt/collection.json",
       "type": "application/json",
       "title": "AKROSS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/albatross-altimetry-for-bathymetry-and-tideretrievals-for-the-southern-ocean-sea-ice-and-ice-shelves/collection.json",
+      "href": "./albatross-altimetry-for-bathymetry-and-tideretrievals-for-the-southern-ocean-sea-ice-and-ice-shelves/collection.json",
       "type": "application/json",
       "title": "ALBATROSS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/albiom-altimetry-for-biomass/collection.json",
+      "href": "./albiom-altimetry-for-biomass/collection.json",
       "type": "application/json",
       "title": "ALBIOM"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/alpglacier/collection.json",
+      "href": "./alpglacier/collection.json",
       "type": "application/json",
       "title": "AlpGlacier"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/alpsnow/collection.json",
+      "href": "./alpsnow/collection.json",
       "type": "application/json",
       "title": "AlpSnow"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/collection.json",
+      "href": "./anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/collection.json",
       "type": "application/json",
       "title": "AnREO"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/arctic-theme-3-fresh-water-fluxes/collection.json",
+      "href": "./arctic-theme-3-fresh-water-fluxes/collection.json",
       "type": "application/json",
       "title": "ArcFlux"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/arctic-salinity/collection.json",
+      "href": "./arctic-salinity/collection.json",
       "type": "application/json",
       "title": "Arctic + Salinity"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/arctic-snow-on-sea-ice/collection.json",
+      "href": "./arctic-snow-on-sea-ice/collection.json",
       "type": "application/json",
       "title": "Arctic+Snow on Sea Ice"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/arktalas-hoavva-project/collection.json",
+      "href": "./arktalas-hoavva-project/collection.json",
       "type": "application/json",
       "title": "ARKATLAS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/baltic-salinity-dynamics/collection.json",
+      "href": "./baltic-salinity-dynamics/collection.json",
       "type": "application/json",
       "title": "BALTIC+ Salinity Dynamics"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/baltic-reconstruction-of-the-sea-level/collection.json",
+      "href": "./baltic-reconstruction-of-the-sea-level/collection.json",
       "type": "application/json",
       "title": "Baltic+ Sea Level"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/baltic-sea-land-biogeochemical-linkages-sealabio/collection.json",
+      "href": "./baltic-sea-land-biogeochemical-linkages-sealabio/collection.json",
       "type": "application/json",
       "title": "BALTIC+ Sea-Land"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/baltic-seal-sea-level/collection.json",
+      "href": "./baltic-seal-sea-level/collection.json",
       "type": "application/json",
       "title": "BALTIC+ SEAL - Sea Level"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/bathysent-an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2/collection.json",
+      "href": "./bathysent-an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2/collection.json",
       "type": "application/json",
       "title": "BathySent"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/biological-pump-and-carbon-exchange-processes/collection.json",
+      "href": "./biological-pump-and-carbon-exchange-processes/collection.json",
       "type": "application/json",
       "title": "BICEP"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/biodiversity-precursors-coastal/collection.json",
+      "href": "./biodiversity-precursors-coastal/collection.json",
       "type": "application/json",
       "title": "BiCOME"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/biomascat-assessing-vegetation-carbon-dynamics-from-multi-decadal-spaceborne-observations/collection.json",
+      "href": "./biomascat-assessing-vegetation-carbon-dynamics-from-multi-decadal-spaceborne-observations/collection.json",
       "type": "application/json",
       "title": "BIOMASCAT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/ocean-health-open-ocean-biodiversity/collection.json",
+      "href": "./ocean-health-open-ocean-biodiversity/collection.json",
       "type": "application/json",
       "title": "BOOMS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/land-surface-carbon-constellation-study/collection.json",
+      "href": "./land-surface-carbon-constellation-study/collection.json",
       "type": "application/json",
       "title": "Carbon Constellation"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/ocean-health-marine-heatwaves/collection.json",
+      "href": "./ocean-health-marine-heatwaves/collection.json",
       "type": "application/json",
       "title": "CareHEAT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/consistent-retrieval-of-cloud-aerosol-surface/collection.json",
+      "href": "./consistent-retrieval-of-cloud-aerosol-surface/collection.json",
       "type": "application/json",
       "title": "CIRCAS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/ocean-circulation-from-ocean-colour-observations-circol/collection.json",
+      "href": "./ocean-circulation-from-ocean-colour-observations-circol/collection.json",
       "type": "application/json",
       "title": "CIRCOL"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/citysatair/collection.json",
+      "href": "./citysatair/collection.json",
       "type": "application/json",
       "title": "CITYSATAIR"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/contribution-of-swarm-data-to-the-prompt-detection-of-tsunamis-and-other-natural-hazards-costo/collection.json",
+      "href": "./contribution-of-swarm-data-to-the-prompt-detection-of-tsunamis-and-other-natural-hazards-costo/collection.json",
       "type": "application/json",
       "title": "COSTO"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/climate-data-record-of-stratospheric-aerosols-crest/collection.json",
+      "href": "./climate-data-record-of-stratospheric-aerosols-crest/collection.json",
       "type": "application/json",
       "title": "CREST"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/cryosat-antarctic-ocean/collection.json",
+      "href": "./cryosat-antarctic-ocean/collection.json",
       "type": "application/json",
       "title": "Cryosat+ Antarctic Ocean"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/stse-cryosat-cryotop-evolution/collection.json",
+      "href": "./stse-cryosat-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "CryoSat+ CryoTop Evolution"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/cryosat-mountain-glaciers/collection.json",
+      "href": "./cryosat-mountain-glaciers/collection.json",
       "type": "application/json",
       "title": "CryoSat+ Mountain Glaciers"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/cryosat-plus-for-oceans-cp4o/collection.json",
+      "href": "./cryosat-plus-for-oceans-cp4o/collection.json",
       "type": "application/json",
       "title": "CryoSat+ Oceans"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/cryosmos/collection.json",
+      "href": "./cryosmos/collection.json",
       "type": "application/json",
       "title": "CryoSMOS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/using-deep-learning-with-cryosat-radar-altimetry-to-adjust-elevations-and-map-surface-penetration-cryosurf/collection.json",
+      "href": "./using-deep-learning-with-cryosat-radar-altimetry-to-adjust-elevations-and-map-surface-penetration-cryosurf/collection.json",
       "type": "application/json",
       "title": "CryoSURF"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/cryotop-evolution/collection.json",
+      "href": "./cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "CryoTop Evolution"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/cryosphere-virtual-laboratory-expro/collection.json",
+      "href": "./cryosphere-virtual-laboratory-expro/collection.json",
       "type": "application/json",
       "title": "CVL"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/detection-of-anthropogenic-co2-emissions-sources/collection.json",
+      "href": "./detection-of-anthropogenic-co2-emissions-sources/collection.json",
       "type": "application/json",
       "title": "DACES"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-data-for-science-and-innovation-in-the-black-sea/collection.json",
+      "href": "./earth-observation-data-for-science-and-innovation-in-the-black-sea/collection.json",
       "type": "application/json",
       "title": "EO4SIBS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/earth-observation-for-surface-mass-balance-eo4smb/collection.json",
+      "href": "./earth-observation-for-surface-mass-balance-eo4smb/collection.json",
       "type": "application/json",
       "title": "EO4SMB"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/earth-system-data-lab-esdl/collection.json",
+      "href": "./earth-system-data-lab-esdl/collection.json",
       "type": "application/json",
       "title": "ESDL"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/forestscan/collection.json",
+      "href": "./forestscan/collection.json",
       "type": "application/json",
       "title": "ForestScan"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/goce-antarctica/collection.json",
+      "href": "./goce-antarctica/collection.json",
       "type": "application/json",
       "title": "GOCE+ ANTARCTICA"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/hr-albedomap-generation-of-high-resolution-spectral-and-broadband-surface-albedo-products-based-on-sentinel-2-msi-measurements/collection.json",
+      "href": "./hr-albedomap-generation-of-high-resolution-spectral-and-broadband-surface-albedo-products-based-on-sentinel-2-msi-measurements/collection.json",
       "type": "application/json",
       "title": "HR-AlbedoMap"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/hydrocoastal-coastal-ocean-and-inland-water-altimetry/collection.json",
+      "href": "./hydrocoastal-coastal-ocean-and-inland-water-altimetry/collection.json",
       "type": "application/json",
       "title": "HydroCoastal"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/impact-study-of-covid-19-lockdown-measures-on-air-quality-and-climate-icovac/collection.json",
+      "href": "./impact-study-of-covid-19-lockdown-measures-on-air-quality-and-climate-icovac/collection.json",
       "type": "application/json",
       "title": "ICOVAC"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/investigating-lightning-generated-elf-whistlers-to-improve-ionospheric-models-ilgew/collection.json",
+      "href": "./investigating-lightning-generated-elf-whistlers-to-improve-ionospheric-models-ilgew/collection.json",
       "type": "application/json",
       "title": "ILGEW"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/towards-the-retrieval-of-lake-ice-thickness-from-satellite-altimetry-missions-liam/collection.json",
+      "href": "./towards-the-retrieval-of-lake-ice-thickness-from-satellite-altimetry-missions-liam/collection.json",
       "type": "application/json",
       "title": "LIAM"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/lidar-climatology-of-vertical-aerosol-structure-for-space-based-lidar-simulation-studies-livas/collection.json",
+      "href": "./lidar-climatology-of-vertical-aerosol-structure-for-space-based-lidar-simulation-studies-livas/collection.json",
       "type": "application/json",
       "title": "LIVAS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/mediterranean-sea-regional-initiative-land-based-pollution/collection.json",
+      "href": "./mediterranean-sea-regional-initiative-land-based-pollution/collection.json",
       "type": "application/json",
       "title": "MedEOS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/s2-for-land-and-water-coastal-and-inland-waters-theme/collection.json",
+      "href": "./s2-for-land-and-water-coastal-and-inland-waters-theme/collection.json",
       "type": "application/json",
       "title": "Meteolakes"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/methane/collection.json",
+      "href": "./methane/collection.json",
       "type": "application/json",
       "title": "Methane+"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/methane-emissions-in-the-northern-hemisphere-by-applying-both-data-from-earth-observing-eo-satellites-and-global-atmospheric-methane-inversion-model-estimates/collection.json",
+      "href": "./methane-emissions-in-the-northern-hemisphere-by-applying-both-data-from-earth-observing-eo-satellites-and-global-atmospheric-methane-inversion-model-estimates/collection.json",
       "type": "application/json",
       "title": "MethEO"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/moheacan-monitoring-ocean-heat-content-and-earth-energy-imbalance-from-space/collection.json",
+      "href": "./moheacan-monitoring-ocean-heat-content-and-earth-energy-imbalance-from-space/collection.json",
       "type": "application/json",
       "title": "MOHeaCAN"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/ocean-health-ocean-acidification/collection.json",
+      "href": "./ocean-health-ocean-acidification/collection.json",
       "type": "application/json",
       "title": "Ocean-Health-OA"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/ocean-extreme/collection.json",
+      "href": "./ocean-extreme/collection.json",
       "type": "application/json",
       "title": "OCEAN+EXTREME"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/satellite-oceanographic-datasets-for-acidification-oceansoda/collection.json",
+      "href": "./satellite-oceanographic-datasets-for-acidification-oceansoda/collection.json",
       "type": "application/json",
       "title": "OceanSODA"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/phab-iv-phase-based-sentinel-1-ice-velocity/collection.json",
+      "href": "./phab-iv-phase-based-sentinel-1-ice-velocity/collection.json",
       "type": "application/json",
       "title": "PHAB-IV"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/photoproxy-technical-assistance-for-the-photosynthetic-proxy-experiment/collection.json",
+      "href": "./photoproxy-technical-assistance-for-the-photosynthetic-proxy-experiment/collection.json",
       "type": "application/json",
       "title": "PHOTOPROXY"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/polar-ice-shelf/collection.json",
+      "href": "./polar-ice-shelf/collection.json",
       "type": "application/json",
       "title": "Polar+ Ice Shelf"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/polar-snow-on-sea-ice/collection.json",
+      "href": "./polar-snow-on-sea-ice/collection.json",
       "type": "application/json",
       "title": "Polar+ Snow on Sea ice"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/pre-melt-preconditioning-the-trigger-for-rapid-arctic-ice-melt/collection.json",
+      "href": "./pre-melt-preconditioning-the-trigger-for-rapid-arctic-ice-melt/collection.json",
       "type": "application/json",
       "title": "PRE-MELT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/prisma-s5p-demonstration-for-covid-19-studies/collection.json",
+      "href": "./prisma-s5p-demonstration-for-covid-19-studies/collection.json",
       "type": "application/json",
       "title": "PRISMA+S5p for COVID-19"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/promcom-production-of-lower-tropospheric-methane-and-carbon-monoxide-distributions-through-combined-use-of-esa-sentinel-5-precursor-shortwave-infrared-and-iasi-cris-thermal-infrared-satellite-data/collection.json",
+      "href": "./promcom-production-of-lower-tropospheric-methane-and-carbon-monoxide-distributions-through-combined-use-of-esa-sentinel-5-precursor-shortwave-infrared-and-iasi-cris-thermal-infrared-satellite-data/collection.json",
       "type": "application/json",
       "title": "PROMCOM"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/ridesat-river-flow-monitoring-and-discharge-estimation-by-integrating-multiple-satellite-data/collection.json",
+      "href": "./ridesat-river-flow-monitoring-and-discharge-estimation-by-integrating-multiple-satellite-data/collection.json",
       "type": "application/json",
       "title": "RIDESAT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-1-for-surface-soil-moisture/collection.json",
+      "href": "./sentinel-1-for-surface-soil-moisture/collection.json",
       "type": "application/json",
       "title": "S1 for Surface Soil Moisture"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-1-for-science-amazonas/collection.json",
+      "href": "./sentinel-1-for-science-amazonas/collection.json",
       "type": "application/json",
       "title": "S14SCIENCE AMAZONAS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/development-of-pan-european-multi-sensor-snow-mapping-methods-exploiting-sentinel-1/collection.json",
+      "href": "./development-of-pan-european-multi-sensor-snow-mapping-methods-exploiting-sentinel-1/collection.json",
       "type": "application/json",
       "title": "S14Science: Snow"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/s2-for-land-and-water-change-detection-multi-temporal/collection.json",
+      "href": "./s2-for-land-and-water-change-detection-multi-temporal/collection.json",
       "type": "application/json",
       "title": "S2 for Land and Water-Change Detection"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/pre-operational-sentinel-3-snow-and-ice-products-sice/collection.json",
+      "href": "./pre-operational-sentinel-3-snow-and-ice-products-sice/collection.json",
       "type": "application/json",
       "title": "S3 snow and ice products"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-3-tandem-for-climate-s3tc-expro/collection.json",
+      "href": "./sentinel-3-tandem-for-climate-s3tc-expro/collection.json",
       "type": "application/json",
       "title": "S3 Tandem for Climate"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-3-for-science-land-study-1-snow/collection.json",
+      "href": "./sentinel-3-for-science-land-study-1-snow/collection.json",
       "type": "application/json",
       "title": "S34Science: Snow"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-aerosol-optical-depth-aod-and-bidirectional-reflectance-distribution-function-brdf/collection.json",
+      "href": "./sentinel-5p-innovation-aerosol-optical-depth-aod-and-bidirectional-reflectance-distribution-function-brdf/collection.json",
       "type": "application/json",
       "title": "S5p Inno - AOD and BRDF"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-glyretro-glyoxal-retrievals-from-tropomi/collection.json",
+      "href": "./sentinel-5p-innovation-glyretro-glyoxal-retrievals-from-tropomi/collection.json",
       "type": "application/json",
       "title": "S5p Inno - Glyoxal"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-water-vapour-isotopologues-h2o-iso/collection.json",
+      "href": "./sentinel-5p-innovation-water-vapour-isotopologues-h2o-iso/collection.json",
       "type": "application/json",
       "title": "S5p Inno - H2O-ISO"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-chlorine-dioxide-oclo/collection.json",
+      "href": "./sentinel-5p-innovation-chlorine-dioxide-oclo/collection.json",
       "type": "application/json",
       "title": "S5p Inno - OCLO"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-ocean-colour-s5p-i-oc/collection.json",
+      "href": "./sentinel-5p-innovation-ocean-colour-s5p-i-oc/collection.json",
       "type": "application/json",
       "title": "S5p Inno - S5p-I-OC"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/collection.json",
+      "href": "./sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/collection.json",
       "type": "application/json",
       "title": "S5p Inno - SIF"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-5p-innovation-so2-layer-height-project/collection.json",
+      "href": "./sentinel-5p-innovation-so2-layer-height-project/collection.json",
       "type": "application/json",
       "title": "S5p Inno - SO2-LH"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/baltic-geodetic-sar-for-baltic-height-system-unification-sar-hsu/collection.json",
+      "href": "./baltic-geodetic-sar-for-baltic-height-system-unification-sar-hsu/collection.json",
       "type": "application/json",
       "title": "SAR-HSU"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sen4carbon-theme-2-fire-dynamics-sense4fire/collection.json",
+      "href": "./sen4carbon-theme-2-fire-dynamics-sense4fire/collection.json",
       "type": "application/json",
       "title": "SENSE4FIRE"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sen4carbon-theme-1-terrestrial-gross-primary-production-sen4gpp/collection.json",
+      "href": "./sen4carbon-theme-1-terrestrial-gross-primary-production-sen4gpp/collection.json",
       "type": "application/json",
       "title": "SENSE4GPP"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-3-hydrologic-altimetry-processor-prototype-shape/collection.json",
+      "href": "./sentinel-3-hydrologic-altimetry-processor-prototype-shape/collection.json",
       "type": "application/json",
       "title": "SHAPE"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/collection.json",
+      "href": "./godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/collection.json",
       "type": "application/json",
       "title": "SMOS-NINO 2015"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/smos-med-sea-surface-salinity-in-the-mediterranean/collection.json",
+      "href": "./smos-med-sea-surface-salinity-in-the-mediterranean/collection.json",
       "type": "application/json",
       "title": "SMOS+ Mediterranean"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/smos-rainfall-land/collection.json",
+      "href": "./smos-rainfall-land/collection.json",
       "type": "application/json",
       "title": "SMOS+ Rainfall Land"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/stse-smos-sea-ice/collection.json",
+      "href": "./stse-smos-sea-ice/collection.json",
       "type": "application/json",
       "title": "SMOS+ SeaIce"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/smos-vegetation/collection.json",
+      "href": "./smos-vegetation/collection.json",
       "type": "application/json",
       "title": "SMOS+ VEGETATION"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/space4safesea/collection.json",
+      "href": "./space4safesea/collection.json",
       "type": "application/json",
       "title": "Space4SafeSea"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-3-performance-improvement-for-ice-sheets-spice/collection.json",
+      "href": "./sentinel-3-performance-improvement-for-ice-sheets-spice/collection.json",
       "type": "application/json",
       "title": "SPICE"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/satellite-based-run-off-evaluation-and-mapping-stream/collection.json",
+      "href": "./satellite-based-run-off-evaluation-and-mapping-stream/collection.json",
       "type": "application/json",
       "title": "STREAM"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/stse-arctic-theme-5-contributions-to-the-year-of-polar-predictions-yopp/collection.json",
+      "href": "./stse-arctic-theme-5-contributions-to-the-year-of-polar-predictions-yopp/collection.json",
       "type": "application/json",
       "title": "STSE-ARCTIC+"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sunlit-synergy-of-using-nadir-and-limb-instruments-for-tropospheric-ozone-monitoring/collection.json",
+      "href": "./sunlit-synergy-of-using-nadir-and-limb-instruments-for-tropospheric-ozone-monitoring/collection.json",
       "type": "application/json",
       "title": "SUNLIT"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/4dionosphere-swarm-vip/collection.json",
+      "href": "./4dionosphere-swarm-vip/collection.json",
       "type": "application/json",
       "title": "SWARM VIP"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/swarm-coupling-high-low-atmosphere-interactions-ion-outflow/collection.json",
+      "href": "./swarm-coupling-high-low-atmosphere-interactions-ion-outflow/collection.json",
       "type": "application/json",
       "title": "Swarm+ Outflow"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/sentinel-3-primary-production-over-land-terra-p/collection.json",
+      "href": "./sentinel-3-primary-production-over-land-terra-p/collection.json",
       "type": "application/json",
       "title": "TerrA-P"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/swarm-coupling-high-low-atmosphere-interactions-vertical-coupling-in-earth-s-atmosphere-at-mid-and-high-latitudes-vera/collection.json",
+      "href": "./swarm-coupling-high-low-atmosphere-interactions-vertical-coupling-in-earth-s-atmosphere-at-mid-and-high-latitudes-vera/collection.json",
       "type": "application/json",
       "title": "VERA"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/volcanic-monitoring-using-sentinel-sensors-by-an-integrated-approach-vista/collection.json",
+      "href": "./volcanic-monitoring-using-sentinel-sensors-by-an-integrated-approach-vista/collection.json",
       "type": "application/json",
       "title": "VISTA"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/wacmos-irrigation/collection.json",
+      "href": "./wacmos-irrigation/collection.json",
       "type": "application/json",
       "title": "WACMOS Irrigation"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/water-vapour-isotopologue-flask-sampling-for-the-validation-of-satellite-data-wifvos/collection.json",
+      "href": "./water-vapour-isotopologue-flask-sampling-for-the-validation-of-satellite-data-wifvos/collection.json",
       "type": "application/json",
       "title": "WIFOS"
     },
     {
       "rel": "child",
-      "href": "https://constantinius.github.io/osc-demo/collections/world-ocean-circulation/collection.json",
+      "href": "./world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "WOC"
-    },
-    {
-      "rel": "self",
-      "href": "https://constantinius.github.io/osc-demo/collection.json",
-      "type": "application/json"
     }
   ],
   "stac_extensions": [],
-  "assets": {
-    "themes": {
-      "href": "./themes.json",
-      "type": "application/json",
-      "title": "Themes",
-      "description": "Themes"
-    },
-    "variables": {
-      "href": "./variables.json",
-      "type": "application/json",
-      "title": "Variables",
-      "description": "Variables"
-    },
-    "eo-missions": {
-      "href": "./eo-missions.json",
-      "type": "application/json",
-      "title": "EO Missions",
-      "description": "EO Missions"
-    }
-  },
   "extent": {
     "spatial": {
       "bbox": [
@@ -800,5 +775,25 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "themes": {
+      "href": "./themes.json",
+      "type": "application/json",
+      "title": "Themes",
+      "description": "Themes"
+    },
+    "variables": {
+      "href": "./variables.json",
+      "type": "application/json",
+      "title": "Variables",
+      "description": "Variables"
+    },
+    "eo-missions": {
+      "href": "./eo-missions.json",
+      "type": "application/json",
+      "title": "EO Missions",
+      "description": "EO Missions"
+    }
+  }
 }
