@@ -1,0 +1,3 @@
+[submodule "open-science-catalog-builder"]
+	path = open-science-catalog-builder
+	url = https://github.com/EOEPCA/open-science-catalog-builder
