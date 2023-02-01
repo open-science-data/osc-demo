@@ -22,7 +22,7 @@ jobs:
         run: |
           sudo apt install -y proj-bin libproj-dev
           pip install open-science-catalog-builder/
-          osc build data/ -o dist/ \
+          osc build ./ -o dist/ \
             --root-href "https://constantinius.github.io/osc-demo/"
       - name: Copying Catalog client
         run: |
