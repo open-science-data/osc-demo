@@ -1,0 +1,84 @@
+{
+  "type": "Collection",
+  "id": "sentinel-3-tandem-for-climate-s3tc-expro",
+  "stac_version": "1.0.0",
+  "description": "Detailed study of the inter-satellite discrepancies, differences and uncertainties using data acquired during the Sentinel-3 Tandem phase.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://s3tandem.eu/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/sentinel-3-tandem-for-climate-s3tc-expro/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/sentinel-3-tandem-for-climate-s3tc-expro/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "S3 Tandem for Climate",
+  "osc:name": "SENTINEL-3 TANDEM FOR CLIMATE (S3TC) EXPRO+",
+  "osc:themes": [
+    "Oceans"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Craig James Donlon",
+    "e-mail": "craig.donlon@esa.int"
+  },
+  "osc:consortium": [
+    "ACRI-ST S.A.S. (FR)",
+    "CLS COLLECTE LOCALISATION SATELLITES (FR)",
+    "NATIONAL PHYSICAL LABORATORY (NPL) (GB)",
+    "NATURAL ENVIRONMENT RESEARCH COUNCIL (GB)",
+    "STFC RUTHERFORD APPLETON LABORATORY (GB)",
+    "UNIVERSITY OF LEEDS",
+    "SCHOOL OF EARTH AND ENVIRONMENT (GB)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2018-05-28T00:00:00Z",
+  "end_datetime": "2020-03-16T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2018-05-28T00:00:00Z",
+          "2020-03-16T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/sentinel-3-tandem-for-climate-s3tc-expro/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

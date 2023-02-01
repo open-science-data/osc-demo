@@ -1,0 +1,80 @@
+{
+  "type": "Collection",
+  "id": "bathysent-an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2",
+  "stac_version": "1.0.0",
+  "description": "Development of an automated method for mapping coastal bathymetry (water depths) on the basis of Copernicus Sentinel-2 mission",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://www.bathysent.org",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/bathysent-an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "BathySent",
+  "osc:name": "BathySent - An Innovative Method to Retrieve Global Coastal Bathymetry from Sentinel-2",
+  "osc:themes": [
+    "Oceans"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Espen Volden",
+    "e-mail": "espen.volden@esa.int"
+  },
+  "osc:consortium": [
+    "BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES (BRGM) (FR",
+    "CLOUDFERRO SP Z O. (PL)",
+    "HELLENIC CENTRE FOR MARINE RESEARCH (HCMR) (GR)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2018-05-07T00:00:00Z",
+  "end_datetime": "2019-06-15T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2018-05-07T00:00:00Z",
+          "2019-06-15T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/bathysent-an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

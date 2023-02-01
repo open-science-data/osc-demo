@@ -1,0 +1,84 @@
+{
+  "type": "Collection",
+  "id": "anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica",
+  "stac_version": "1.0.0",
+  "description": "Develop a total ozone product for Ocean and Land Colour Instrument (OLCI) on board Sentinel 3 A,B.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://www.vitrocisetbelgium.com/news/retrieval-total-ozone-over-antarctica-using-ocean-and-land-colour-instrument-board-sentinel",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/2021/09/07/retrieval-of-total-ozone-at-300m-resolution-over-antarctica-using-s3-olci/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/total-ozone-anreo/collection.json",
+      "type": "application/json",
+      "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "AnREO",
+  "osc:name": "AnREO: Retrieval of Total Ozone using OLCI-S-3 over Antarctica",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Christian Retscher",
+    "e-mail": "christian.retscher@esa.int"
+  },
+  "osc:consortium": [
+    "VITROCISET BELGIUM SPRL (BE)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2020-03-25T00:00:00Z",
+  "end_datetime": "2021-07-05T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-03-25T00:00:00Z",
+          "2021-07-05T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

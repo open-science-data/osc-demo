@@ -1,0 +1,80 @@
+{
+  "type": "Collection",
+  "id": "aeolus-innovation-expro-ocean-sub-surface-products-and-applications",
+  "stac_version": "1.0.0",
+  "description": "Assessing the potential of the Aeolus mission to monitor ocean sub-surface optical and biogeochemical properties based on the measurements from the wind lidar ALADIN (Atmospheric Laser Doppler Instrument) at 355 nm.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/aeolus-innovation-ocean-sub-surface-products-and-applications/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/aeolus-innovation-ocean-sub-surface-products-and-applications/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/aeolus-innovation-expro-ocean-sub-surface-products-and-applications/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "AEOLUS+inno - AOC",
+  "osc:name": "AEOLUS+ INNOVATION - EXPRO+ OCEAN SUB-SURFACE PRODUCTS AND APPLICATIONS",
+  "osc:themes": [
+    "Atmosphere",
+    "Oceans"
+  ],
+  "osc:status": "ONGOING",
+  "osc:technical_officer": {
+    "name": "Marie-Helene Rio",
+    "e-mail": "marie-helene.rio@esa.int"
+  },
+  "osc:consortium": [
+    "NOVELTIS SAS (FR)",
+    "UNIVERSITE DU LITTORAL COTE D'OPALE (FR)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2020-12-09T00:00:00Z",
+  "end_datetime": "2021-06-27T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-12-09T00:00:00Z",
+          "2021-06-27T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/aeolus-innovation-expro-ocean-sub-surface-products-and-applications/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

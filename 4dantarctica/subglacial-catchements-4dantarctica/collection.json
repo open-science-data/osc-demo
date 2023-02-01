@@ -1,0 +1,76 @@
+{
+  "type": "Collection",
+  "id": "subglacial-catchements-4dantarctica",
+  "stac_version": "1.0.0",
+  "description": "Probabilistic maps of major Antarctic catchments (gridded product)",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.4d-antarctica.org/",
+      "title": "Website"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/4dantarctica/subglacial-catchements-4dantarctica/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "4D-ANTARCTICA"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Modelled subglacial catchement boundaries",
+  "osc:missions": [],
+  "osc:project": "4DANTARCTICA",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:variable": "Lake area",
+  "osc:status": "ONGOING",
+  "osc:region": "Antarctica",
+  "osc:type": "Product",
+  "start_datetime": "2012-01-01T00:00:00Z",
+  "end_datetime": "2012-12-31T23:59:59Z",
+  "version": "1",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -58.4,
+          -128.7,
+          -57.6,
+          128.4
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2012-01-01T00:00:00Z",
+          "2012-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

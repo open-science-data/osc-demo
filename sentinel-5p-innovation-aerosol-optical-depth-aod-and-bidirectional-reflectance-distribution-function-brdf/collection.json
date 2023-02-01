@@ -1,0 +1,79 @@
+{
+  "type": "Collection",
+  "id": "sentinel-5p-innovation-aerosol-optical-depth-aod-and-bidirectional-reflectance-distribution-function-brdf",
+  "stac_version": "1.0.0",
+  "description": "Aerosol and surface reflectance characterisation using capabilities of Sentinel-5p (TROPOMI) measurements.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://www.grasp-sas.com/projects/aod-brdf_sentinel-5p-innovation/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/sentinel-5p-innovation-aod-brdf/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/sentinel-5p-innovation-aerosol-optical-depth-aod-and-bidirectional-reflectance-distribution-function-brdf/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "S5p Inno - AOD and BRDF",
+  "osc:name": "SENTINEL-5P+ INNOVATION - AEROSOL OPTICAL DEPTH (AOD) AND BIDIRECTIONAL REFLECTANCE DISTRIBUTION FUNCTION (BRDF)",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Christian Retscher",
+    "e-mail": "christian.retscher@esa.int"
+  },
+  "osc:consortium": [
+    "GRASP-SAS (FR)CATALYSTS GMBH (AT)",
+    "KNMI (NL)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2019-07-01T00:00:00Z",
+  "end_datetime": "2021-12-30T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2019-07-01T00:00:00Z",
+          "2021-12-30T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/sentinel-5p-innovation-aerosol-optical-depth-aod-and-bidirectional-reflectance-distribution-function-brdf/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

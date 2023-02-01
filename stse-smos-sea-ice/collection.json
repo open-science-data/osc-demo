@@ -1,0 +1,83 @@
+{
+  "type": "Collection",
+  "id": "stse-smos-sea-ice",
+  "stac_version": "1.0.0",
+  "description": "Develop a data fusion product based on CryoSat and SMOS data, now termed the CS2SMOS product",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://icdc.cen.uni-hamburg.de/en/l3c-smos-sit.html",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "http://due.esrin.esa.int/stse/page_stse_project204.php",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/stse-smos-sea-ice/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "SMOS+ SeaIce",
+  "osc:name": "STSE SMOS+ SEA ICE",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Matthias Drusch",
+    "e-mail": "matthias.drusch@esa.int"
+  },
+  "osc:consortium": [
+    "UNIVERSITY OF HAMBURG (DE)",
+    "ALFRED WEGENER INSTITUTE (DE)",
+    "DANISH METEOROLOGICAL INSTITUTE (DK)",
+    "FINNISH METEOROLOGICAL INSTITUTE (FI)",
+    "NANSEN ENVIRONMENTAL AND REMOTE SENSING CENTER (NO)",
+    "UNIVERSITAET BREMEN (DE)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2014-08-20T00:00:00Z",
+  "end_datetime": "2017-10-30T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2014-08-20T00:00:00Z",
+          "2017-10-30T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/stse-smos-sea-ice/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

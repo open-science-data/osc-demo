@@ -1,0 +1,81 @@
+{
+  "type": "Collection",
+  "id": "photoproxy-technical-assistance-for-the-photosynthetic-proxy-experiment",
+  "stac_version": "1.0.0",
+  "description": "Quantitative assessment of vegetation photosynthesis and vegetation stress from space",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://www.fz-juelich.de/ibg/ibg-2/EN/Research/Projects/Photoproxy/Photoproxy%20_projekt_node.html",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/photoproxy-technical-assistance-for-the-photosynthetic-proxy-experiment/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/photoproxy-technical-assistance-for-the-photosynthetic-proxy-experiment/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "PHOTOPROXY",
+  "osc:name": "PHOTOPROXY: TECHNICAL ASSISTANCE FOR THE PHOTOSYNTHETIC-PROXY EXPERIMENT",
+  "osc:themes": [
+    "Land"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Dirk Schuettemeyer",
+    "e-mail": "dirk.schuettemeyer@esa.int"
+  },
+  "osc:consortium": [
+    "FORSCHUNGSZENTRUM JUELICH GMBH (DE)",
+    "FONDAZIONE CLIMA E SOSTENIBILIT\u221a\u00c4 (IT)",
+    "University Bonn - IGG (DE)",
+    "UNIVERSITY OF ALBERTA (CA)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2018-10-30T00:00:00Z",
+  "end_datetime": "2020-07-31T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2018-10-30T00:00:00Z",
+          "2020-07-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/photoproxy-technical-assistance-for-the-photosynthetic-proxy-experiment/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

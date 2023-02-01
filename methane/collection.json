@@ -1,0 +1,84 @@
+{
+  "type": "Collection",
+  "id": "methane",
+  "stac_version": "1.0.0",
+  "description": "The ESA Methane+ project aims at exploiting the SWIR and TIR CH4 observations from different satellites in order to better differentiate between sources and sinks of CH4 on the regional and global scale. For this we will use the CH4 observations of TROPOMI on Copernicus Sentinel-5p, IASI on MetOp-B, and CrIS on Suomi NPP in combination with atmospheric inversion models.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://methaneplus.eu/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/methane/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/methane/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Methane+",
+  "osc:name": "Methane+",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Christian Retscher",
+    "e-mail": "christian.retscher@esa.int"
+  },
+  "osc:consortium": [
+    "Netherlands Institute for Space Research (NWO-I) (NL)",
+    "Laboratoire de M\u221a\u00a9t\u221a\u00a9orologie Dynamique-FX-Conseil (FR)",
+    "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)",
+    "UKRI Rutherford Appleton Laboratory (GB)",
+    "UNIVERSITAET BREMEN (DE)",
+    "VRIJE UNIVERSITEIT AMSTERDAM",
+    "DEPARTMENT OF EARTH SCIENCES (NL)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2020-01-20T00:00:00Z",
+  "end_datetime": "2022-02-20T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-01-20T00:00:00Z",
+          "2022-02-20T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/methane/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

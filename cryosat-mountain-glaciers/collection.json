@@ -1,0 +1,88 @@
+{
+  "type": "Collection",
+  "id": "cryosat-mountain-glaciers",
+  "stac_version": "1.0.0",
+  "description": "Quantify the volume, mass change and contribution to sea level change of mountain glaciers using CryoSat satellite radar altimeter data",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.cryosat-mtg.org/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/cryosat-mountain-glaciers/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-mountain-glaciers/glacier-elevation-cryosat-mountain-glaciers/collection.json",
+      "type": "application/json",
+      "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-mountain-glaciers/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "CryoSat+ Mountain Glaciers",
+  "osc:name": "CryoSat+ Mountain Glaciers",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Stephen Plummer",
+    "e-mail": "stephen.plummer@esa.int"
+  },
+  "osc:consortium": [
+    "University of Edinburgh (UoE)",
+    "isardSAT",
+    "Environmental Earth Observation Information Technology GMBH",
+    "earthwave Earth Observation and Data Science Specialists",
+    "University College of London \u201a Mullard Space Science Labor (UCL)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2015-05-13T00:00:00Z",
+  "end_datetime": "2020-12-31T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2015-05-13T00:00:00Z",
+          "2020-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/cryosat-mountain-glaciers/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

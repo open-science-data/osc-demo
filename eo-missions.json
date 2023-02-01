@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AEOLUS"
+  },
+  {
+    "name": "AMSR-E"
+  },
+  {
+    "name": "AMSR2"
+  },
+  {
+    "name": "ASCAT"
+  },
+  {
+    "name": "CALIPSO"
+  },
+  {
+    "name": "CHAMP"
+  },
+  {
+    "name": "CryoSat"
+  },
+  {
+    "name": "CryoSat-2"
+  },
+  {
+    "name": "EARTHCARE"
+  },
+  {
+    "name": "ENVISAT"
+  },
+  {
+    "name": "ERS-1"
+  },
+  {
+    "name": "ERS-2"
+  },
+  {
+    "name": "GCOM-W1"
+  },
+  {
+    "name": "GCOM-W2"
+  },
+  {
+    "name": "GLONAS"
+  },
+  {
+    "name": "GOCE"
+  },
+  {
+    "name": "GOSAT"
+  },
+  {
+    "name": "GPS"
+  },
+  {
+    "name": "GRACE"
+  },
+  {
+    "name": "GRACE-FO"
+  },
+  {
+    "name": "ICESat"
+  },
+  {
+    "name": "In-situ"
+  },
+  {
+    "name": "Jason-1"
+  },
+  {
+    "name": "Jason-2"
+  },
+  {
+    "name": "Jason-3"
+  },
+  {
+    "name": "Landsat"
+  },
+  {
+    "name": "Landsat-8"
+  },
+  {
+    "name": "MERIS"
+  },
+  {
+    "name": "MeteoSat"
+  },
+  {
+    "name": "Model"
+  },
+  {
+    "name": "MODIS"
+  },
+  {
+    "name": "MSG-SEVIRI"
+  },
+  {
+    "name": "OERSTED"
+  },
+  {
+    "name": "OMI"
+  },
+  {
+    "name": "SAC-C"
+  },
+  {
+    "name": "SARAL/ALtiKa"
+  },
+  {
+    "name": "SeaWiFS"
+  },
+  {
+    "name": "Sentinel-1"
+  },
+  {
+    "name": "Sentinel-2"
+  },
+  {
+    "name": "Sentinel-3"
+  },
+  {
+    "name": "Sentinel-5p"
+  },
+  {
+    "name": "Sentinel-6"
+  },
+  {
+    "name": "SMAP"
+  },
+  {
+    "name": "SMOS"
+  },
+  {
+    "name": "SWARM"
+  },
+  {
+    "name": "TanDEM-X"
+  },
+  {
+    "name": "TerraSAR-X"
+  },
+  {
+    "name": "TOPEX/Poseidon"
+  },
+  {
+    "name": "VIIRS"
+  },
+  {
+    "name": "MSG-SEVIRI"
+  }
+]

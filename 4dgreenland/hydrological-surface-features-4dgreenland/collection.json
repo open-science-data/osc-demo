@@ -1,0 +1,83 @@
+{
+  "type": "Collection",
+  "id": "hydrological-surface-features-4dgreenland",
+  "stac_version": "1.0.0",
+  "description": "On the surface of the Greenland Ice Sheet, meltwater streams, rivers, and lakes constitute a complex and interrelated hydrological network. Rain and meltwater formed on the glacier surface either refreezes in the snowpack is transported as surface runoff to the ocean or enters the englacial and subglacial environments through moulins and crevasses. Moulins develop by hydrofracture and establishes conduits for face-to-bed meltwater transport. This enables surface water to reach the base of the ice sheet, thereby possibly enhancing the ice flow by basal lubrication. An important feature of these open water surfaces at the ice sheet surface is that they alter the surface energy budget through the ice-albedo feedback. The low albedo of liquid water increases the absorption of incoming radiation, which in turn increases melt rates. The low reflectivity and a clear spectral signature in optical wavelengths enable open water features to be discriminated from the ambient ice through optical imagery. 4DGreenland aims at investigating the extent and volume of hydrological surface features with a high temporal resolution covering 2010-present.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://4dgreenland.eo4cryo.dk/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://4dgreenland.eo4cryo.dk/?page_id=48",
+      "title": "Access"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/4dgreenland/hydrological-surface-features-4dgreenland/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/4dgreenland/collection.json",
+      "type": "application/json",
+      "title": "4D-Greenland"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Extent and volume of hydrological surface features_Greenland_S1/2",
+  "osc:missions": [
+    "Sentinel-1",
+    "Sentinel-2"
+  ],
+  "osc:project": "4DGreenland",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:variable": "Ice sheet topography",
+  "osc:status": "COMPLETED",
+  "osc:region": "Greenland",
+  "osc:type": "Product",
+  "start_datetime": "2010-01-01T00:00:00Z",
+  "end_datetime": "2020-12-31T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -73.709433726,
+          60.2878324851,
+          -12.713339976,
+          83.5902211563
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2010-01-01T00:00:00Z",
+          "2020-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "type": "Collection",
+  "id": "crust-and-upper-mantle-model-3d-earth",
+  "stac_version": "1.0.0",
+  "description": "Global model of crust and upper mantle",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.3dearth.uni-kiel.de/en",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://drive.google.com/drive/folders/1bmwEpPm4Jj83legXuhmPB-EJ7oz5hKag?usp=sharing",
+      "title": "Access"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/3d-earth/crust-and-upper-mantle-model-3d-earth/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/3d-earth/collection.json",
+      "type": "application/json",
+      "title": "3D-EARTH"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE",
+  "osc:missions": [
+    "GOCE"
+  ],
+  "osc:project": "3D-Earth",
+  "osc:themes": [
+    "Solid Earth"
+  ],
+  "osc:variable": "Gravity field",
+  "osc:status": "ONGOING",
+  "osc:region": "Global",
+  "osc:type": "Product",
+  "created": "2021-03-10T00:00:00Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

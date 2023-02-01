@@ -1,0 +1,146 @@
+{
+  "type": "Collection",
+  "id": "cryosat-plus-for-oceans-cp4o",
+  "stac_version": "1.0.0",
+  "description": "Exploitation of CryoSat-2 data over the open and coastal ocean",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.satoc.eu/projects/CP4O/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/cryosat-ocean/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/lr-satellite-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/rdsar-satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/satellite-sar-altimeter-coastal-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Coastal Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/satellite-sarin-altimeter-coastal-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SARIN altimeter product_Coastal Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/satellite-altimeter-polar-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite LRM, SAR, SARIN polar altimeter product_Polar Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Sea Floor Mapping_Oceania_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/wet-troposphere-correction-cryosat-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Wet Troposphere Correction_for Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/hr-tidal-atlas-arctic-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/bathymetry-arctic-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Bathymetry_Arctic_Cryosat"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "CryoSat+ Oceans",
+  "osc:name": "CryoSat Plus For Oceans (CP4O)",
+  "osc:themes": [
+    "Oceans",
+    "Cryosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Jerome Benveniste",
+    "e-mail": "jerome.benveniste@esa.int"
+  },
+  "osc:consortium": [
+    "SATELLITE OCEANOGRAPHIC CONSULTANTS LTD. (GB)",
+    "NATURAL ENVIRONMENT RESEARCH COUNCIL (GB)",
+    "NOVELTIS SAS (FR)",
+    "STARLAB BARCELONA SL (ES)",
+    "TU DELFT (NL)",
+    "Technical University of Denmark (DK)",
+    "UNIVERSITY OF PORTO \u201a FACULTY OF SCIENCE (PT)",
+    "isardSAT (ES)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2012-06-05T00:00:00Z",
+  "end_datetime": "2018-05-15T23:59:59Z",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2012-06-05T00:00:00Z",
+          "2018-05-15T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "https://constantinius.github.io/osc-demo/cryosat-plus-for-oceans-cp4o/iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "type": "Collection",
+  "id": "particulate-inorganic-carbon-bicep",
+  "stac_version": "1.0.0",
+  "description": "Particulate Inorganic Carbon Product, Global",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/home/runner/work/osc-demo/osc-demo/dist/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://bicep-project.org/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://bicep-project.org/",
+      "title": "Documentation"
+    },
+    {
+      "rel": "self",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/particulate-inorganic-carbon-bicep/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://constantinius.github.io/osc-demo/biological-pump-and-carbon-exchange-processes/collection.json",
+      "type": "application/json",
+      "title": "BICEP"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Particulate Inorganic Carbon",
+  "osc:missions": [
+    "Sentinel-3"
+  ],
+  "osc:project": "Biological Pump and Carbon Exchange Processes",
+  "osc:themes": [
+    "Oceans"
+  ],
+  "osc:variable": "Dissolved inorganic carbon  (DIC)",
+  "osc:status": "PLANNED",
+  "osc:region": "Global",
+  "osc:type": "Product",
+  "updated": "2023-02-01T15:44:42Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "iso-metadata": {
+      "href": "./iso.xml",
+      "type": "application/xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
+}
