@@ -29,6 +29,11 @@
       "href": "../collection.json",
       "type": "application/json",
       "title": "WOC"
+    },
+    {
+      "rel": "item",
+      "href": "./2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc/2009123123-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20091231T18_05-v2.0-fv1.0.nc.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -50,17 +55,19 @@
   "extent": {
     "spatial": {
       "bbox": [
-        -76.002623842,
-        20.4479407425,
-        6.4276376583,
-        50.7093121683
+        [
+          -179.9375,
+          -89.9375,
+          179.9375,
+          89.9375
+        ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2010-01-01T00:00:00Z",
-          "2018-12-31T23:59:59Z"
+          "2009-12-31T23:00:00Z",
+          "2009-12-31T23:00:00Z"
         ]
       ]
     }
