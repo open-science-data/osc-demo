@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "wind-stress-vector-world-ocean-circulation",
   "stac_version": "1.0.0",
-  "description": "Hourly stress equivalent wind and wind stress components at 10-m from ERA*, which consists of ECMWF ERA5 output, converted to U10S and stress, and then corrected using several scatterometer data sources",
+  "description": "Hourly stress equivalent wind and wind stress components at 10-m from ERA*, which consists of ECMWF ERA5 output, converted to U10S and stress, and then corrected using several scatterometer data sources.\nThis dataset provides the meridional and zonal components of both the stress-equivalent wind (U10S) and wind stress (Tau) vectors. The ERA* product is a correction of the ECMWF Fifth Reanalysis (ERA5) output by means of geo-located scatterometer-ERA5 differences over a 15-day temporal window. The product also contains ERA5 U10S and Tau",
   "links": [
     {
       "rel": "root",
@@ -21,7 +21,7 @@
     },
     {
       "rel": "via",
-      "href": "https://drive.google.com/file/d/17yYD7nhG4lEOkiyFCEQcoPOY0ziJaHMW/view?usp=sharing",
+      "href": "https://www.worldoceancirculation.org/Products#/metadata/3aae3973-48c4-43e6-8b11-65440e595613",
       "title": "Documentation"
     },
     {
@@ -39,7 +39,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ],
-  "title": "Wind stress vector (& anomalies)_Hourly_ERA5",
+  "title": "ERA* Hourly Global Stress Equivalent Wind and Wind Stress",
   "osc:missions": [],
   "osc:project": "World Ocean circulation",
   "osc:themes": [
@@ -47,7 +47,7 @@
   ],
   "osc:variable": "Wind stress",
   "osc:status": "ONGOING",
-  "osc:region": "Agulhas",
+  "osc:region": "Global",
   "osc:type": "Product",
   "created": "2021-11-30T00:00:00Z",
   "start_datetime": "2019-01-01T00:00:00Z",
